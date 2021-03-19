@@ -1,0 +1,32 @@
+{
+  "events" : [
+    {
+      "date" : "2021-03-15",
+      "matches" : [
+        {
+          "teamA" : [1,2],
+          "teamB" : [3,4],
+          "result" : 1
+        }
+      ]
+    }
+  ],
+  "players" : [
+    {
+      "id": 1,
+      "name" : "Claudio Merli"
+    },
+    {
+      "id": 2,
+      "name" : "Federico Meoni"
+    },
+    {
+      "id" : 3,
+      "name" : "Gianmarco Bonelli"
+    },
+    {
+      "id" : 4,
+      "name" : "Giulia Abbate"
+    }
+  ]
+}
