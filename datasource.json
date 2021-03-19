@@ -6,7 +6,7 @@
         {
           "teamA" : [1,2],
           "teamB" : [3,4],
-          "result" : 0
+          "result" : 1
         }
       ]
     }
