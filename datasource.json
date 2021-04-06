@@ -1,12 +1,27 @@
 {
   "events" : [
     {
-      "date" : "2021-03-15",
+      "date" : "2021-04-07",
       "matches" : [
         {
+          "teamA" : [7,4],
+          "teamB" : [8,3],
+          "result" : 0
+        },
+        {
           "teamA" : [1,2],
-          "teamB" : [3,4],
-          "result" : 1
+          "teamB" : [5,6],
+          "result" : 0
+        },
+        {
+          "teamA" : [7,4],
+          "teamB" : [1,2],
+          "result" : 0
+        },
+        {
+          "teamA" : [8,3],
+          "teamB" : [5,6],
+          "result" : 0
         }
       ]
     }
@@ -18,7 +33,7 @@
     },
     {
       "id": 2,
-      "name" : "Federico Meoni"
+      "name" : "Alessio Canestrelli"
     },
     {
       "id" : 3,
@@ -26,7 +41,23 @@
     },
     {
       "id" : 4,
+      "name" : "Dario Goodliving"
+    },
+    {
+      "id" : 5,
+      "name" : "Federico Meoni"
+    },
+    {
+      "id" : 6,
+      "name" : "Claudio DG (The Boss)"
+    },
+    {
+      "id" : 7,
       "name" : "Giulia Abbate"
-    }
+    },
+    {
+      "id" : 8,
+      "name" : "Fabio Vittori"
+    },
   ]
 }
